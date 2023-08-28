@@ -32,6 +32,8 @@
 <br>
 <br>
 <br> 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
    
   <h3 align="center">🌈 Follow Me </h3>
   <br>
