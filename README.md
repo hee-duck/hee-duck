@@ -1,6 +1,8 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer&text=Welcome%20profile&fontSize=90)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F536&width=435&lines=Aspiring+developer)](https://git.io/typing-svg)
   
 ####  :wave: Welcome my github profile !
 
